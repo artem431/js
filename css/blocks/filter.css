@@ -14,7 +14,9 @@
   margin-bottom: 17px;
 }
 
-
+.filter .filter__range label {
+  margin-bottom: 45px;
+}
 
 .filter fieldset {
   margin-left: 0;
